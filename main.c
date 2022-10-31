@@ -19,6 +19,8 @@ int main() {
 	printf("Informe a nota de trabalho (caso nao houver, coloque 0): ");
 	scanf("%f",&T);
 	
+	//-----------------------------------------------------------------------------
+	
 	MF=P1+P2+T;
 	
 	printf("\n");
