@@ -1,6 +1,5 @@
-#include <stdio.h>
 
-int main() {
+
 	
 	printf("\n");
 	printf("------------------- CALCULADORA DE MEDIA -------------------");
@@ -33,6 +32,6 @@ int main() {
 		printf("REPROVADO");
 	}
 	
-	
+	printf("...");
 	return 0;
 }
